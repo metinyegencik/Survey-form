@@ -1,3 +1,3 @@
 # Survey-form
 ##LearnCode
-![Clone](https://github.com/metinyegencik/Linkedin-Clone/blob/main/Linkedin/linkedin.png)
+![Clone](https://github.com/metinyegencik/Survey-form/blob/main/Surver-form.jpg)
